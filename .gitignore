@@ -3,3 +3,4 @@ data/camera/*.avi
 *.pth
 *.avi
 *.swp
+*.backup
